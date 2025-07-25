@@ -1,0 +1,42 @@
+{
+  "name": "placeholder-tileset",
+  "tileSize": 32,
+  "tiles": {
+    "grass": {
+      "color": "#a7f070",
+      "id": 0
+    },
+    "path": {
+      "color": "#94b0c2",
+      "id": 1
+    },
+    "building_wall": {
+      "color": "#566c86",
+      "id": 2
+    },
+    "building_door": {
+      "color": "#ef7d57",
+      "id": 3
+    },
+    "water": {
+      "color": "#41a6f6",
+      "id": 4
+    },
+    "tree": {
+      "color": "#38b764",
+      "id": 5
+    },
+    "flower": {
+      "color": "#b13e53",
+      "id": 6
+    },
+    "bench": {
+      "color": "#333c57",
+      "id": 7
+    },
+    "scroll": {
+      "color": "#ffcd75",
+      "id": 8
+    }
+  }
+}

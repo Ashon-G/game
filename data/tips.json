@@ -1,0 +1,148 @@
+{
+  "categories": {
+    "small_talk": {
+      "title": "The Art of Small Talk",
+      "icon": "💬",
+      "tips": [
+        {
+          "id": "st1",
+          "title": "The Weather Opener",
+          "content": "Starting with weather is a classic for a reason - it's universal and non-threatening. Try: 'Quite a day we're having!' instead of just 'Nice weather.'",
+          "practice": "Next time you're in an elevator or waiting in line, comment on the weather to someone nearby."
+        },
+        {
+          "id": "st2",
+          "title": "The Observation Technique",
+          "content": "Notice something positive about your environment and share it. 'This coffee shop has such a cozy atmosphere' or 'That's an interesting book cover.'",
+          "practice": "Make three environmental observations today and share one with someone."
+        },
+        {
+          "id": "st3",
+          "title": "The Genuine Compliment",
+          "content": "Compliment choices, not appearance. 'I love your backpack, where did you get it?' feels less personal than appearance-based compliments.",
+          "practice": "Give one choice-based compliment today (clothing, accessories, book choice, etc.)"
+        }
+      ]
+    },
+    "body_language": {
+      "title": "Body Language Basics",
+      "icon": "🚶",
+      "tips": [
+        {
+          "id": "bl1",
+          "title": "The Power Pose",
+          "content": "Before social situations, stand tall with hands on hips for 2 minutes. This 'power pose' actually increases confidence hormones.",
+          "practice": "Do a power pose before your next social interaction."
+        },
+        {
+          "id": "bl2",
+          "title": "Eye Contact Formula",
+          "content": "Try the 70% rule: maintain eye contact 70% of the time while speaking, 50% while listening. Look at the bridge of their nose if direct contact is hard.",
+          "practice": "Practice the 70% rule in your next conversation."
+        },
+        {
+          "id": "bl3",
+          "title": "Open vs Closed Posture",
+          "content": "Keep arms uncrossed, shoulders back, and body angled toward the person. This signals openness and interest.",
+          "practice": "Notice your posture in conversations today and adjust to be more open."
+        }
+      ]
+    },
+    "active_listening": {
+      "title": "Active Listening",
+      "icon": "👂",
+      "tips": [
+        {
+          "id": "al1",
+          "title": "The Echo Technique",
+          "content": "Repeat the last few words someone says as a question. 'You went to Paris?' This shows you're listening and prompts them to continue.",
+          "practice": "Use the echo technique three times in conversations today."
+        },
+        {
+          "id": "al2",
+          "title": "Verbal Nods",
+          "content": "Use small sounds like 'mm-hmm,' 'oh,' and 'I see' to show engagement without interrupting. These encourage the speaker.",
+          "practice": "Count how many verbal nods you use in your next conversation."
+        },
+        {
+          "id": "al3",
+          "title": "Summary Reflection",
+          "content": "Occasionally summarize what someone said: 'So you're saying that...' This confirms understanding and shows deep listening.",
+          "practice": "Try one summary reflection in a conversation today."
+        }
+      ]
+    },
+    "conversation_flow": {
+      "title": "Keeping Conversations Flowing",
+      "icon": "🌊",
+      "tips": [
+        {
+          "id": "cf1",
+          "title": "The AND Technique",
+          "content": "Answer questions AND add information. Instead of just 'Yes, I like coffee,' try 'Yes, I love coffee! I just discovered cold brew.'",
+          "practice": "Answer three questions today using the AND technique."
+        },
+        {
+          "id": "cf2",
+          "title": "Open-Ended Questions",
+          "content": "Ask questions that can't be answered with yes/no. 'What brought you here?' instead of 'Do you come here often?'",
+          "practice": "Ask five open-ended questions in conversations today."
+        },
+        {
+          "id": "cf3",
+          "title": "The Story Prompt",
+          "content": "When someone mentions something, ask for the story: 'How did you get into that?' or 'What made you choose that?'",
+          "practice": "Ask for one story behind someone's interest or choice."
+        }
+      ]
+    },
+    "anxiety_management": {
+      "title": "Managing Social Anxiety",
+      "icon": "🧘",
+      "tips": [
+        {
+          "id": "am1",
+          "title": "The 5-4-3-2-1 Grounding",
+          "content": "When anxious, notice: 5 things you see, 4 you can touch, 3 you hear, 2 you smell, 1 you taste. This grounds you in the present.",
+          "practice": "Practice 5-4-3-2-1 before entering a social situation."
+        },
+        {
+          "id": "am2",
+          "title": "The Arrival Strategy",
+          "content": "Arrive early to events. It's easier to greet people one-by-one as they arrive than to enter a full room.",
+          "practice": "Arrive 10 minutes early to your next social event."
+        },
+        {
+          "id": "am3",
+          "title": "The Helper Role",
+          "content": "Volunteer to help at events (taking coats, serving food). Having a role reduces anxiety and gives natural conversation starters.",
+          "practice": "Offer to help with one task at your next gathering."
+        }
+      ]
+    },
+    "exit_strategies": {
+      "title": "Graceful Exits",
+      "icon": "👋",
+      "tips": [
+        {
+          "id": "es1",
+          "title": "The Positive Close",
+          "content": "End conversations on a high note: 'It was really nice talking with you about X!' This leaves a positive impression.",
+          "practice": "Use a positive close to end three conversations today."
+        },
+        {
+          "id": "es2",
+          "title": "The Future Reference",
+          "content": "Mention something future-oriented: 'I'll have to try that restaurant you mentioned!' This suggests ongoing connection.",
+          "practice": "Make one future reference when ending a conversation."
+        },
+        {
+          "id": "es3",
+          "title": "The Honest Exit",
+          "content": "It's okay to say: 'I'm going to mingle a bit more' or 'I need to refresh my drink.' Honesty is better than awkward lingering.",
+          "practice": "Use one honest exit line today instead of making excuses."
+        }
+      ]
+    }
+  }
+}

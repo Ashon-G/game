@@ -1,0 +1,128 @@
+{
+  "easy": [
+    {
+      "id": "e1",
+      "title": "The Greeting Scroll",
+      "description": "Your first quest awaits! Today's challenge is simple but meaningful.",
+      "task": "Say 'Good morning' or 'Hello' to someone today. It could be a neighbor, store clerk, or anyone you meet.",
+      "xp": 20,
+      "tips": [
+        "Make eye contact when greeting",
+        "Smile naturally",
+        "Don't worry if they don't respond - you did great!"
+      ]
+    },
+    {
+      "id": "e2",
+      "title": "The Smile Mission",
+      "description": "A smile can brighten someone's day, including yours!",
+      "task": "Smile at 3 different people today. Count each genuine smile you share.",
+      "xp": 20,
+      "tips": [
+        "Practice in the mirror first",
+        "Think of something pleasant",
+        "A small smile counts too!"
+      ]
+    },
+    {
+      "id": "e3",
+      "title": "Eye Contact Training",
+      "description": "Eye contact shows confidence and connection.",
+      "task": "Make 3 seconds of eye contact during any conversation today.",
+      "xp": 20,
+      "tips": [
+        "Look at the bridge of their nose if direct eye contact is hard",
+        "Count slowly to 3 in your head",
+        "It's okay to look away after - you did it!"
+      ]
+    },
+    {
+      "id": "e4",
+      "title": "Thank You Quest",
+      "description": "Gratitude creates positive connections.",
+      "task": "Thank a service worker today - cashier, barista, bus driver, anyone helping you.",
+      "xp": 20,
+      "tips": [
+        "Be specific: 'Thank you for your help'",
+        "Make it genuine",
+        "Notice how it makes them smile"
+      ]
+    },
+    {
+      "id": "e5",
+      "title": "The Wave Hello",
+      "description": "Sometimes a gesture speaks louder than words.",
+      "task": "Wave hello to a neighbor or someone you recognize from a distance.",
+      "xp": 20,
+      "tips": [
+        "A small wave is perfectly fine",
+        "Add a smile if you feel comfortable",
+        "It counts even if they don't wave back"
+      ]
+    }
+  ],
+  "medium": [
+    {
+      "id": "m1",
+      "title": "Small Talk Initiation",
+      "description": "Break the ice with casual conversation.",
+      "task": "Start a conversation about the weather or current surroundings with someone.",
+      "xp": 30,
+      "tips": [
+        "Try: 'Nice weather today, isn't it?'",
+        "Keep it light and brief",
+        "3-4 exchanges is a success!"
+      ]
+    },
+    {
+      "id": "m2",
+      "title": "The Compliment Giver",
+      "description": "Spread positivity through genuine compliments.",
+      "task": "Give someone a genuine, specific compliment today.",
+      "xp": 30,
+      "tips": [
+        "Focus on choices: 'I like your shoes/bag'",
+        "Or actions: 'You did great in that presentation'",
+        "Keep it appropriate and sincere"
+      ]
+    },
+    {
+      "id": "m3",
+      "title": "Question Master",
+      "description": "Show interest in others through questions.",
+      "task": "Ask someone about their weekend, day, or a hobby.",
+      "xp": 30,
+      "tips": [
+        "Try: 'How was your weekend?'",
+        "Listen to their answer",
+        "Follow up with 'That sounds nice!'"
+      ]
+    }
+  ],
+  "hard": [
+    {
+      "id": "h1",
+      "title": "Opinion Warrior",
+      "description": "Share your thoughts with confidence.",
+      "task": "Share your opinion in a group discussion or meeting today.",
+      "xp": 50,
+      "tips": [
+        "Start with 'I think...' or 'In my opinion...'",
+        "Keep it brief and clear",
+        "Remember: your opinion matters"
+      ]
+    },
+    {
+      "id": "h2",
+      "title": "Invitation Sender",
+      "description": "Take the initiative in building connections.",
+      "task": "Invite someone to grab coffee, lunch, or do an activity together.",
+      "xp": 50,
+      "tips": [
+        "Keep it casual: 'Want to grab coffee sometime?'",
+        "Suggest a specific time",
+        "It's okay if they say no - you were brave!"
+      ]
+    }
+  ]
+}
